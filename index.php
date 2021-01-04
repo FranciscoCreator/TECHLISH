@@ -20,7 +20,7 @@
 <header>
   <div class="menu">
     <div class="contenedor">
-      <p class="logo">TECH-LISH</p>
+      <p class="logo">TECH-LISH TEST</p>
       <img class="menu-icon" src="imagenes/menu.png" alt="">
       <nav>
         <ul class="lista-menu">
