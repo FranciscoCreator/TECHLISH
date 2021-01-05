@@ -1,0 +1,38 @@
+#otros-idiomas-2 {
+  padding: 20px;
+  background-color: #1e1f3f;
+  text-align: center;
+}
+.otros-idiomas-img-item {
+  padding: 20px;
+}
+.otros-idiomas-img-item h5 {
+  padding: 20px;
+  color: #ef7373;
+  font-weight: bold;
+}
+.otros-idiomas-text-item {
+  padding: 40px;
+  color: white;
+  text-align: justify;
+  font-weight: bold;
+  font-size: 16px;
+}
+#otros-idiomas-1 {
+  background-color: #f2f2f2;
+  padding: 30px;
+}
+.otros-idiomas-span {
+  background-color: #ef7373;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+.otros-idiomas1-titulo {
+  text-align: center;
+}
+.otros-idiomas1-titulo span {
+  color: #ef7373;
+  font-weight: bold;
+}
