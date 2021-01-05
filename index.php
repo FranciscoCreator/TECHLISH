@@ -19,6 +19,9 @@
 <?php $colorOla = "#1e1f3f"; ?>
 <?php include('includes/layout/ola_down.php'); ?>
 <?php include('includes/sections/preparate-examen.php'); ?>
+<?php $colorOla = "#f2f2f2"; ?>
+<?php include('includes/layout/ola_up.php'); ?>
+<?php include('includes/sections/blog.php'); ?>
 
 
 
