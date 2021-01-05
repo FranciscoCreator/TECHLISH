@@ -1,0 +1,46 @@
+#servicios {
+  background-color: #f2f2f2;
+}
+.servicios-header {
+  background-color: transparent;
+}
+.servicios-img-head-1 {
+  background-image: url("../../img/perfil1.jpg");
+  border-radius: 50px;
+  height: 280px;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+}
+.servicios-img-head-2 {
+  background-image: url("../../img/perfil2.jpg");
+  border-radius: 50px;
+  height: 280px;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+}
+.servicios-img-head-3 {
+  background-image: url("../../img/perfil3.jpg");
+  border-radius: 50px;
+  height: 280px;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+}
+.servicios-content {
+  text-align: center;
+}
+.servicios-content p {
+  text-align: justify;
+}
+.servicios-content h4,
+.servicios-content h5 {
+  color: #ef7373;
+}
