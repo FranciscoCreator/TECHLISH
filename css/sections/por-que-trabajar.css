@@ -1,0 +1,29 @@
+
+.contenedor-trabajar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  #por-que-trabajar .item {
+    width: 28%;
+    text-align: center;
+  }
+  
+  #por-que-trabajar ul li {
+    list-style: none;
+  }
+  
+  #por-que-trabajar ul li:nth-child(2) {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #1e213d;
+  }
+  
+  #por-que-trabajar ul li:nth-child(3) {
+    line-height: 31px;
+    color: #67a7e7;
+    font-size: 14px;
+  }
