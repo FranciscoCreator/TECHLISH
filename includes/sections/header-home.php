@@ -11,7 +11,7 @@
                         <a href="#" class="btn btn-primary">¡Probar Ahora!</a>
                     </div>
                     <div class="col-md-6 btn-contactar">
-                        <a href="#" class="btn btn-secondary">Contactanos</a>
+                        <a href="#" class="btn btn-secondary">Contáctanos</a>
                     </div>
                 </div>
             </div>

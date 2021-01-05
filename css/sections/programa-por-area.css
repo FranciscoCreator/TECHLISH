@@ -1,0 +1,51 @@
+.programa-por-area-2-titulo {
+  padding: 20px;
+  color: #ef7373;
+}
+.programa-por-area-2-contenido {
+  padding: 20px;
+  color: white;
+  text-align: justify;
+}
+#programa-por-area-1 {
+  background-color: #f2f2f2;
+}
+#programa-por-area-2 {
+  background-color: #1e1f3f;
+  padding: 10px;
+}
+.content-item {
+  padding-top: 20px;
+}
+.area-item {
+  font-size: 22px;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  color: #ef7373;
+  text-decoration: none;
+  padding: 10px;
+}
+.box-img {
+  background-image: url("../../img/business.jpg");
+  width: 260px;
+  height: 220px;
+  border-radius: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+  margin: 10px;
+  padding: 20px;
+}
+.programa-por-area-titulo {
+  text-align: center;
+  padding: 10px;
+}
+.programa-por-area-titulo h3 {
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 40px;
+  color: #98acf8;
+}

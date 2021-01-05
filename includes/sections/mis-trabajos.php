@@ -4,7 +4,7 @@
         <h3 class="titulo-section">Nuestros Programas</h3>
         <div class="owl-carousel owl-theme">
             <div class="item">
-                <a href="www.google.com">
+                <a href="#">
                     <img src="./img/corporativo.jpg">
                     <h3>Programa de Inglés
                         Corporativo</h3>
@@ -16,7 +16,7 @@
                 </a>
             </div>
             <div class="item pb30">
-                <a href="www.google.com">
+                <a href="#">
                     <img src="./img/academico.jpg">
                     <h3>Programa de Inglés
                         Académico</h3>
@@ -28,7 +28,7 @@
                 </a>
             </div>
             <div class="item">
-                <a href="www.google.com">
+                <a href="#">
                     <img src="./img/tecnico.jpg">
                     <h3 class="text-3xl">Programa de Inglés
                         Técnico</h3>
@@ -41,7 +41,7 @@
                 </a>
             </div>
             <div class="item">
-                <a href="www.google.com">
+                <a href="#">
                     <img src="./img/teacher.jpg" width="80">
                     <h3>Programa de Inglés
                         por Área</h3>
