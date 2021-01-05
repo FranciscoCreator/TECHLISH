@@ -1,0 +1,66 @@
+#mis-trabajos{
+    width: 100%;
+    height: 100vh;
+}
+.titulo-section{
+  font-size: 2.8em;
+  color: #98ACF8;
+  padding: 10px;
+  font-weight: 500;
+  text-align: center;
+}
+
+button.owl-prev, button.owl-next {
+    font-size: 40px !important;
+}
+
+
+
+#mis-trabajos  .item{
+  display: block;
+  position: relative;
+  background: #1e213d;
+  padding: 10px 15px;
+  border-radius: 5px;
+  box-shadow: -3px 3px 15px 0px #000;
+  width: 100%;
+  
+}
+
+#mis-trabajos .titulo-section{
+  font-size: 2.8em;
+  color: #98ACF8;
+  padding: 10px;
+  font-weight: 500;
+}
+
+#mis-trabajos .item h3{
+  font-family:  'Lato', sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.945);
+  margin: 20px 10px;
+}
+
+#mis-trabajos p {
+text-align: center;
+color: rgba(255, 255, 2555, 0.7);
+font-weight: 400;
+font-style: 'Lato','Sans-serif';
+margin-top: 10px;
+line-height: 1.8;
+
+
+}
+
+#mis-trabajos a.btn{
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  background:#98ACF8;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  padding: 3px 0px;
+ 
+}
