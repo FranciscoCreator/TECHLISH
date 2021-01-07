@@ -1,0 +1,4 @@
+[04-May-2017 01:27:20 UTC] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/dmm098x9/public_html/scripts/mail/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 16
+[04-May-2017 01:27:21 UTC] PHP Fatal error:  Class 'Swift_ByteStream_FileByteStream' not found in /home/dmm098x9/public_html/scripts/mail/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 15
+[04-May-2017 01:27:22 UTC] PHP Fatal error:  Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home/dmm098x9/public_html/scripts/mail/lib/classes/Swift/ByteStream/FileByteStream.php on line 16
+[04-May-2017 01:27:25 UTC] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/dmm098x9/public_html/scripts/mail/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php on line 16

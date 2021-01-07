@@ -1,0 +1,1 @@
+[04-May-2017 01:27:33 UTC] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/dmm098x9/public_html/scripts/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17

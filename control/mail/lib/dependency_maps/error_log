@@ -1,0 +1,2 @@
+[04-May-2017 01:27:30 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/dmm098x9/public_html/scripts/mail/lib/dependency_maps/message_deps.php on line 3
+[04-May-2017 01:27:35 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/dmm098x9/public_html/scripts/mail/lib/dependency_maps/cache_deps.php on line 3

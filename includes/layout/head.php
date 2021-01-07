@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/bootstrap.css.map">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/sweetalert.css">
     <link href="css/main.css" rel="stylesheet">
 </head>
 <body>

@@ -1,0 +1,5 @@
+[04-May-2017 01:25:46 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/dmm098x9/public_html/scripts/mail/lib/dependency_maps/cache_deps.php on line 3
+[04-May-2017 01:25:47 UTC] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/dmm098x9/public_html/scripts/mail/lib/preferences.php on line 9
+[04-May-2017 01:25:48 UTC] PHP Warning:  require(/home/dmm098x9/public_html/scripts/mail/lib/Swift.php): failed to open stream: No such file or directory in /home/dmm098x9/public_html/scripts/mail/lib/swift_required_pear.php on line 20
+[04-May-2017 01:25:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/dmm098x9/public_html/scripts/mail/lib/Swift.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dmm098x9/public_html/scripts/mail/lib/swift_required_pear.php on line 20
+[04-May-2017 01:25:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dmm098x9/public_html/scripts/mail/lib/swiftmailer_generate_mimes_config.php on line 139
