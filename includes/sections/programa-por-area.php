@@ -3,7 +3,9 @@
     <div class="container">
         <div class="row contenedor-arriba">
             <div class="col-md-6">
-                <div class="box-img"></div>
+                <center>
+                    <div class="box-img"></div>
+                </center>
             </div>
             <div class="col-md-6 programa-por-area-titulo">
                 <h3>Programa de Inglés <br>Profesional por Área</h3>

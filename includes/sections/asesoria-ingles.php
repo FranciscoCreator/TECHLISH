@@ -3,7 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <div class="box-cont"></div>
+                <center>
+                    <div class="box-cont"></div>
+                </center>
             </div>
             <div class="col-md-6 asesoria-ingles-titulo">
                 <h3>Asesoría en <br>Inglés Profesional</h3>
