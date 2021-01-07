@@ -1,0 +1,53 @@
+
+footer{
+    width: 100%;
+    bottom: 0;
+   background: #1e213d;
+   padding: 10px;
+}
+footer h5{
+    color: white;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px 0px;
+}
+footer a > i{
+    padding-right: 5px;
+}
+
+footer a{
+    color: #EF7373;
+    font-size: 15px;
+    text-decoration: none !important;
+    padding: 5px;
+}
+footer a:hover{
+    color: white;
+}
+.columna{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.568);
+}
+
+.columna .redes-sociales a i{
+    font-size: 28px;
+    transition: transform 300ms;
+
+}
+.columna .redes-sociales a i:hover{
+    transform: scale(1.2);
+    transition: transform 300ms;
+}
+.columna  p >i.fa-map-marker-alt{
+    font-size: 28px;
+}
+
+.aviso p{
+color: white;
+font-size: 12px;
+font-weight: 200;
+}
