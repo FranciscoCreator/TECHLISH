@@ -1,0 +1,73 @@
+#contacto{
+    width: 100%;
+    background: rgb(107,20,32);
+background: linear-gradient(90deg, rgba(107,20,32,1) 0%, rgba(242,63,63,1) 32%, rgba(191,30,56,0.7609418767507002) 100%);
+position: relative;
+}
+#contacto .llamanos-contenedor{
+    width: 100%;
+    background: #1e213d;
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid white;
+    box-shadow: 1px 0px 5px 0px white;
+}
+
+
+#contacto form{
+    width: 80%;
+    margin:  auto;
+    padding: 20px;
+    font-family: 'Lato',sans-serif;
+    letter-spacing: 1.1;
+}
+
+input[type="text"],input[type="email"], input[type="tel"]
+,textarea{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 5px;
+    color: #010213;
+    
+}
+
+input[type="text"]::placeholder,input[type="email"]::placeholder, input[type="tel"]::placeholder,#contacto textarea::placeholder{
+    color: #1e213d;
+    font-weight: 400;
+}
+
+textarea{
+    max-height: 100px;
+}
+#contacto select{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 5px;
+    border-radius: 5px;
+}
+
+#contacto input[type="submit"]{
+    width: 100%;
+    padding: 8px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    background:#1e213d;
+    color: white;
+    font-weight: bold;
+    transition: transform 300ms;
+
+    
+}
+#contacto input[type="submit"]:hover{
+    transform: scale(1.1);
+    transition: transform 300ms;
+}
+
+input[type="checkbox"]{
+    padding: 8px;
+    margin: 10px 5px;
+}
