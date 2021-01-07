@@ -2,6 +2,7 @@
 <?php $pageTitle = "Techlish|Inicio"; ?>
 <!-- La cual se recupera en el archivo head.php en el title -->
 <?php include('includes/layout/head.php'); ?>
+<?php include('includes/layout/nav.php'); ?>
 <!-- Aqui se trae la sección head-home que es la del título grandote y la imagen de fondo -->
 <!-- Cada archivo php q esta en sections manda llamar a su css -->
 <?php include('includes/sections/header-home.php'); ?>

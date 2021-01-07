@@ -1,0 +1,251 @@
+
+.menu-icon{
+    display: none;
+}
+.menu{
+    width: 100%;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    background: #1e213d;
+    align-items: center;
+    padding: 10px;
+}
+nav .lista-menu li{
+    /* margin: 0px 10px; */
+    text-align: center;
+    list-style: none;
+}
+nav .lista-menu li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.lista-menu{
+    display: flex;
+    justify-content: space-around;
+}
+.lista-menu .sub-menu{
+    background: #98ACF8;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 10px;
+    display: none;
+}
+.lista-menu .sub-menu .menu-item{
+    width: 220px;
+}
+nav .lista-menu li:hover .sub-menu{
+    display: block;
+}
+.lista-menu .sub-menu .menu-item a{
+    display: block;
+    padding: 7px;
+    transition: background 300ms;
+}
+.lista-menu .sub-menu .menu-item:hover{
+    background: #1e213d;
+    transition: background 300ms;
+
+}
+.margen{
+    margin: 0px 25px;
+}
+.menu  label{
+    margin: 10px;
+    font-size: 26px;
+    color: white;
+    font-weight: 70px;
+    display: none;
+    box-sizing: border-box;
+}
+
+.lista-menu .redes-sociales .icon a img:hover{
+    transform: scale(1.1);
+} 
+.menu  #toggle{
+    display: none;
+}
+
+
+@media only screen and (min-width:780px) and (max-width:979px){
+    .menu  label{
+        display: block;
+        cursor: pointer ;
+    }
+
+    .lista-menu{
+      position: absolute;
+      left: -110%;
+      background: #1e213d; 
+      width: 50%;
+      height: 100vh;
+      transition: all 500ms;
+      box-shadow: 1px 3px 7px 0px black;
+
+    }
+  
+    .lista-menu li{
+        margin: 10% auto;
+    }
+   
+    .lista-menu .redes-sociales{
+        width: 50%; 
+        margin: 10px auto;
+        display: flex;
+        justify-content: center;
+    }
+    #toggle:checked + .lista-menu{
+        display: block;
+        left: 0;
+        transition: all 400ms;
+    }
+
+}   
+
+.logo{
+    color: white;
+    padding-left: 10px;
+}
+@media only screen and (min-width:480px) and (max-width:780px){
+    .menu  label{
+        display: block;
+        cursor: pointer ;
+    }
+
+    .lista-menu{
+      position: absolute;
+      left: -110%;
+      background: #1e213d; 
+      width: 100%;
+      height: 100vh;
+      transition: all 500ms;
+      box-shadow: 1px 3px 7px 0px black;
+
+    }
+.lista-menu .sub-menu{
+        display: none;
+        background: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        background: #000;
+}
+.lista-menu li:hover .sub-menu li{
+    margin: 5px 0px;
+}
+
+.lista-menu li:hover .sub-menu{
+    display: block;
+    background: #98ACF8;
+    padding: 0px;
+    height: 65vh;
+    transition: all 300ms;
+    box-shadow: 1px 1px 3px 0px white;
+    
+}
+    .lista-menu li{
+        margin: 10% auto;
+    }
+   
+    .lista-menu .redes-sociales{
+        width: 50%; 
+        margin: 10px auto;
+        display: flex;
+        justify-content: center;
+    }
+    #toggle:checked + .lista-menu{
+        display: block;
+        left: 0;
+        transition: all 400ms;
+    }
+}
+
+
+
+
+
+
+.redes-sociales{
+    display: flex; 
+}
+.redes-sociales .icon{
+    margin: 0px 10px;
+}
+
+
+.fa-angle-down{
+    padding-left: 5px;
+    font-size: 18px;
+} 
+
+
+@media only screen and (max-width:480px){
+    .menu  label{
+        display: block;
+        cursor: pointer ;
+    }
+
+    .lista-menu{
+      position: absolute;
+      left: -110%;
+      background: #1e213d; 
+      width: 100%;
+      height: 100vh;
+      transition: all 500ms;
+      box-shadow: 1px 3px 7px 0px black;
+
+    }
+.lista-menu .sub-menu{
+        display: none;
+        background: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        background: #000;
+}
+.lista-menu li:hover .sub-menu li{
+    margin: 5px 0px;
+}
+
+.lista-menu li:hover .sub-menu{
+    display: block;
+    background: #98ACF8;
+    padding: 0px;
+    height: 65vh;
+    transition: all 300ms;
+    box-shadow: 1px 1px 3px 0px white;
+    
+}
+    .lista-menu li{
+        margin: 10% auto;
+    }
+   
+    .lista-menu .redes-sociales{
+        width: 50%; 
+        margin: 10px auto;
+        display: flex;
+        justify-content: center;
+    }
+    #toggle:checked + .lista-menu{
+        display: block;
+        left: 0;
+        transition: all 400ms;
+    }
+}
+
+.redes-sociales{
+    display: flex; 
+}
+.redes-sociales .icon{
+    margin: 0px 10px;
+}
+
+
+.fa-angle-down{
+    padding-left: 5px;
+    font-size: 18px;
+}
