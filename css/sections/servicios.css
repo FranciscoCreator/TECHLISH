@@ -1,18 +1,32 @@
 #servicios {
-  background-color: #f2f2f2;
+  width: 100%;
+
+  background: rgb(30,33,61);
+  background: linear-gradient(180deg, rgba(30,33,61,1) 0%, rgba(110,109,161,0.7609418767507002) 70%, rgba(109,108,127,1) 83%, rgba(179,179,188,1) 95%, rgba(242,242,242,1) 100%);
+margin-bottom: 20px;
+position: relative;
+
 }
-.servicios-header {
-  background-color: transparent;
+.card{
+  box-shadow: 1px -3px 5px 0px white;
 }
+ 
+.card-header {
+  background: rgb(155,156,157);
+  background: linear-gradient(180deg, rgba(155,156,157,1) 0%, rgba(224,224,231,1) 83%);
+border: none important!;
+border-style: none;
+}
+
 .servicios-img-head-1 {
   background-image: url("../../img/perfil1.jpg");
-  border-radius: 50px;
   height: 280px;
   background-position: center;
   background-repeat: no-repeat;
   overflow: hidden;
   background-size: cover;
   position: relative;
+
 }
 .servicios-img-head-2 {
   background-image: url("../../img/perfil2.jpg");
@@ -26,7 +40,6 @@
 }
 .servicios-img-head-3 {
   background-image: url("../../img/perfil3.jpg");
-  border-radius: 50px;
   height: 280px;
   background-position: center;
   background-repeat: no-repeat;
@@ -36,11 +49,15 @@
 }
 .servicios-content {
   text-align: center;
+  border: none;
+  border-style: none;
 }
 .servicios-content p {
-  text-align: justify;
+  text-align: center;
+  color: #98ACF8;
 }
 .servicios-content h4,
 .servicios-content h5 {
   color: #ef7373;
 }
+

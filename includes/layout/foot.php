@@ -15,5 +15,9 @@
     <script src="js/sweetalert.js" defer></script>
     <script src="js/carrusel.js" defer></script>
     <script src="js/main.js" defer></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+         AOS.init();
+    </script>
 </body>
 </html>

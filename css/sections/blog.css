@@ -47,3 +47,10 @@
   background: #EF7373;
   transition: background 300ms;
 }
+ 
+a{
+    text-decoration: none !important;
+}
+a:hover{
+color: white !important;
+} 

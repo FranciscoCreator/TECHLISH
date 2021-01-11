@@ -7,16 +7,16 @@ $programa_select = $_POST['programa_select'];
 
 
 require_once 'mail/lib/swift_required.php';
-$transport = Swift_SmtpTransport::newInstance('mail.dmmvission.com', 587)
-    ->setUsername('soporte@dmmvission.com')
-    ->setPassword('soporte123');
+$transport = Swift_SmtpTransport::newInstance('mail.techlish.com.mx', 587)
+    ->setUsername('contacto@techlish.com.mx')
+    ->setPassword('Contact@tech$1');
 
 $mailer = Swift_Mailer::newInstance($transport);
 $message = Swift_Message::newInstance('Solicitud de información TECHLISH')
     ->setFrom(array('soporte@dmmvission.com' => 'Solicitud de información TECHLISH'))
     ->setTo(
         array(
-            'mauricio2769@gmail.com' => 'Mauricio'
+            'contacto@techlish.com.mx' => 'Contacto'
         )
     )
     ->setBody(

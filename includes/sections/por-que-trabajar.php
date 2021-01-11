@@ -1,11 +1,11 @@
 <link href="css/sections/por-que-trabajar.css" rel="stylesheet">
 <section id="por-que-trabajar">
-    <div class="contenedor">
-        <h3 class="titulo-section">¿Por que Somos la mejor Opción?</h3>
+    <div class="contenedor" data-aos="fade-down">
+        <h3 class="titulo-section text-center m-auto" >¡Somos la mejor Opción!</h3>
     </div>
     <div class="contaner">
         <div class="row">
-            <div class="col-md-4 por-que-trabajar-item">
+            <div class="col-md-4 por-que-trabajar-item" data-aos="fade-right">
                 <center>
                     <img src="./img/charla.png" alt="./img/charla.png">
                 </center>
@@ -22,7 +22,7 @@
                     profesional.
                 </p>
             </div>
-            <div class="col-md-4 por-que-trabajar-item">
+            <div class="col-md-4 por-que-trabajar-item" data-aos="fade-up">
                 <center>
                     <img src="./img/metas.png" alt="./img/metas.png">
                 </center>
@@ -35,7 +35,7 @@
                 conocer otras culturas.
                 </p>
             </div>
-            <div class="col-md-4 por-que-trabajar-item">
+            <div class="col-md-4 por-que-trabajar-item" data-aos="fade-left">
                 <center>
                     <img src="./img/objetivo.png" alt="./img/objetivo.png">
                 </center>

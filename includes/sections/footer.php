@@ -1,23 +1,25 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" >
 <link rel="stylesheet" href="css/sections/footer.css">
-<footer>
+
+<footer class="">
            <div class=" container">
                <div class="row  d-flex    justify-content-space-around ">
                    <div class="col-12 columna col-sm-6 col-md-6 col-lg-3">
                        <h5>EMPRESA</h5>
-                       <a href=""><i class="fas fa-users"></i> Nosotros </a>
-                       <a href=""><i class="far fa-building"></i>TECH-LISH</a>
-                       <a href=""><i class="far fa-clock"></i>Horario</a>
-                       <a href="">Lunes a Viernes 9:00 a 7:00 pm  </a>
+                       <a href="nosotros.php"><i class="fas fa-users"></i> Nosotros </a>
+                       <a href="index.php"><i class="far fa-building"></i>TECH-LISH</a>
+                       <a href="#"><i class="far fa-clock"></i>Horario</a>
+                       <a href="#">Lunes a Viernes 9:00 a 7:00 pm  </a>
                     <a href="">Sábado 9:00 am a 2:00 pm</a>
                     </div>
                    <div class="col-12 columna col-sm-6 col-md-6 col-lg-3">
                        <h5>PROGRAMAS</h5>
-                        <a href="">Programa de Inglés General</a>
-                        <a href="">Programa de Inglés Corporativo</a>
-                        <a href="">Programa de Inglés Académico</a>
-                        <a href="">Programa de Inglés Técnico</a>
-                        <a href="">Programa de Inglés por Área</a>
-                        <a href="">Asesoría de Inglés Profesional</a>
+                        <a href="ingles-general.php">Programa de Inglés General</a>
+                        <a href="ingles-corporativo.php">Programa de Inglés Corporativo</a>
+                        <a href="ingles-academico.php">Programa de Inglés Académico</a>
+                        <a href="ingles-tecnico.php">Programa de Inglés Técnico</a>
+                        <a href="#programa-por-area-1">Programa de Inglés por Área</a>
+                        <a href="#asesoria-ingles-1">Asesoría de Inglés Profesional</a>
                    </div>
                    <div class="col-12 columna col-sm-6 col-md-6 col-lg-3">
                        <h5>CONTÁCTO</h5>
@@ -44,8 +46,10 @@
                </div>
                <div class="row aviso">
                    <div class="col">
-                       <p class="text-center"><a href="">Aviso de Privacidad</a> • © 2020 English for Specific Purposes • Todos los derechos reservados</p>
+                       <p class="text-center"><a href="">Aviso de Privacidad</a> • © 2020  TECH-LISH• Todos los derechos reservados</p>
                    </div>
                </div>
            </div>
        </footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" ></script>

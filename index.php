@@ -26,6 +26,7 @@
 <?php include('includes/layout/ola_up.php'); ?>
 <?php include('includes/sections/asesoria-ingles.php'); ?>
 <?php $colorOla = "#1e1f3f"; ?>
+<?php include('includes/sections/prueba-ingles.php'); ?>
 <?php include('includes/layout/ola_down.php'); ?>
 <?php $colorOla = "#f2f2f2"; ?>
 <?php include('includes/layout/ola_up.php'); ?>
@@ -36,7 +37,6 @@
 <?php $colorOla = "#f2f2f2"; ?>
 <?php include('includes/layout/ola_up.php'); ?>
 <?php include('includes/sections/blog.php'); ?>
-<?php include('includes/sections/prueba-ingles.php'); ?>
 <?php $colorOla = "#1e1f3f"; ?>
 <?php include('includes/layout/ola_down.php'); ?>
 <?php $colorOla = "#f2f2f2"; ?>

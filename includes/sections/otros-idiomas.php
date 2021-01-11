@@ -18,7 +18,9 @@
 </section>
 <section id="otros-idiomas-2">
     <div class="container">
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Alemán</h5>
@@ -31,7 +33,9 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Francés</h5>
@@ -42,7 +46,9 @@
                 La lengua diplomática por excelencia, oficial de organismos internacionales como la UE.
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Italiano</h5>
@@ -54,7 +60,9 @@
                 gastronómico y artístico.
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Chino</h5>
@@ -65,7 +73,9 @@
                 La lengua con mas número de hablantes nativos y creciente influencia en el ámbito económico y de negocios.
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Español</h5>
@@ -77,7 +87,9 @@
                 en el contexto internacional que te abrirá puertas profesionales y ampliará tu cultura.
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Portugués</h5>
@@ -88,7 +100,9 @@
                 La lengua sonora y musical que te abrirá puertas y oportunidades de negocios en varios países.
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-rigth"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
             <div class="col-md-3">
                 <div class="otros-idiomas-img-item">
                     <h5>Japonés</h5>

@@ -1,0 +1,18 @@
+#nosotros{
+    width: 100%;
+    margin: 10px 5px;
+ 
+}
+
+.cont-mision h2,.cont-vision h2{
+    color: white;
+    background: #1e213d;
+    border-radius: 5px;
+}
+.cont-mision p,.cont-vision p{
+    font-family: 'Lato',sans-serif;
+    line-height: 1.8;
+    padding: 10px;
+    text-align: justify;
+    color: rgb(111, 117, 122);
+}

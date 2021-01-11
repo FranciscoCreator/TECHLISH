@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <link rel="stylesheet" href="css/sections/formulario-index.css">
 
-<section id="contacto">
+<section id="contacto" class="mt-10" data-aos="fade-left">
         <div class="contenedor-form">
             <div class="llamanos-contenedor">
                 <h2 class="text-white text-center ">Llámanos</h2>
@@ -52,3 +52,5 @@
         </form>
     </div>
     </section>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" ></script>

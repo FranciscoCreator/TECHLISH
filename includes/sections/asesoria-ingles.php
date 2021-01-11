@@ -16,7 +16,7 @@
 <section id="asesoria-ingles-2">
     <div class="row">
         <div class="col-md-6 asesoria-ingles-titulo2">
-            <h3>
+            <h3 >
                 En <span>Tech-Lish</span> te ofrecemos soluciones para todas tus necesidades de lenguaje.
             </h3>
         </div>

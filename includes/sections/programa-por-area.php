@@ -1,6 +1,6 @@
 <link href="css/sections/programa-por-area.css" rel="stylesheet">
-<section id="programa-por-area-1">
-    <div class="container">
+<section id="programa-por-area-1" data-aos="fade-up">
+    <div class="container" data-aos="zoom-in-up">
         <div class="row contenedor-arriba">
             <div class="col-md-6">
                 <center>
@@ -17,10 +17,10 @@
 <section id="programa-por-area-2">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 programa-por-area-2-titulo">
+            <div class="col-md-4 programa-por-area-2-titulo" data-aos="fade-up" >
                 <h4>Áreas Temáticas</h4>
             </div>
-            <div class="col-md-8 programa-por-area-2-contenido">
+            <div class="col-md-8 programa-por-area-2-contenido" data-aos="fade-left">
                 <p>
                     TECH-LISH te ofrece cursos de ingles en tu área de especialidad
                     para dotarte de las habilidades, la confianza,teoría y práctica que
@@ -29,27 +29,27 @@
                 </p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4 content-item">
+        <div class="row" data-aos="fade-up">
+            <div class="col-md-4 content-item" data-aos="fade-up">
                 <a href="#" class="area-item">
                     <img src="./img/comprobado.png" alt="cheked-logo" />
                     Marketing
                 </a>
             </div>
-            <div class="col-md-4 content-item">
+            <div class="col-md-4 content-item" data-aos="fade-up">
                 <a href="#" class="area-item">
                     <img src="./img/comprobado.png" alt="cheked-logo" />
                     Telecomunicaciones & TI
                 </a>
             </div>
-            <div class="col-md-4 content-item">
+            <div class="col-md-4 content-item" data-aos="fade-up">
                 <a href="#" class="area-item">
                     <img src="./img/comprobado.png" alt="cheked-logo" />
                     Legal
                 </a>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up">
             <div class="col-md-4 content-item">
                 <a href="#" class="area-item">
                     <img src="./img/comprobado.png" alt="cheked-logo" />
@@ -69,7 +69,7 @@
                 </a>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up">
             <div class="col-md-4 content-item">
                 <a href="#" class="area-item">
                     <img src="./img/comprobado.png" alt="cheked-logo" />
@@ -89,7 +89,7 @@
                 </a>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up">
             <div class="col-md-4 content-item">
             </div>
             <div class="col-md-4 content-item">
