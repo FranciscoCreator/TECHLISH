@@ -25,7 +25,7 @@
                     estructura y tiempo. Contarás con asesoría en todo momento, personalizando
                     tu ritmo de aprendizaje.
                 </p>
-                <a href="#" class="preparate-examen-button">!Iniciar Ahora!</a>
+                <a href="test" class="preparate-examen-button">!Iniciar Ahora!</a>
             </div>
         </div>
     </div>

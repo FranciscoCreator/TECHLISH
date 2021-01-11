@@ -4,7 +4,7 @@
 <header>
     <div class="menu">
         <div class="contenedor">
-          <p class="logo">TECH-LISH</p>
+          <p class="logo"><a href="inicio" style="color:white;text-decoration:none;">TECH-LISH</a></p>
           <img class="menu-icon" src="img/menu.png" alt="menu-hamburguer">
           <nav>
                 <label for="toggle">&#9776;</label>
