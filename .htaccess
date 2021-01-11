@@ -3,4 +3,6 @@ ErrorDocument 404 http://%{HTTP_HOST}/techlish/404
 Options +FollowSymLinks
 RewriteRule ^inicio$ index.php
 
+
+RewriteRule ^test$ test.php
 RewriteRule ^404$ 404.php
