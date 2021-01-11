@@ -7,7 +7,7 @@
 
 <section id="nosotros" class="">
     <div class="container-fluid">
-        <div class="row  cont-mision d-flex justify-content-center mt-3 p-5 align-items-md-start  ">
+        <div class="row  cont-mision d-flex justify-content-center mt-3 align-items-md-start  ">
             <div class="col-12 col-sm-12 col-md-6">
                 <img class="img-fluid rounded rounded-sm-circle" src="img/mision2.jpg" alt="">
             </div>

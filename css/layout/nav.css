@@ -211,6 +211,9 @@ nav .lista-menu li:hover .sub-menu{
         cursor: pointer ;
     }
 
+    .menu nav{
+        z-index: 10000;
+    }
     .lista-menu{
       position: absolute;
       left: -110%;
@@ -219,15 +222,20 @@ nav .lista-menu li:hover .sub-menu{
       height: 100vh;
       transition: all 500ms;
       box-shadow: 1px 3px 7px 0px black;
+      z-index: 10000;
 
     }
-.lista-menu .sub-menu{
+.menu nav .lista-menu .sub-menu{
         display: none;
         position: absolute;
         right: 0;
         top: 0;
         background: #1e213d;
         z-index: 2000;
+}
+
+.lista-menu .sub-menu .menu-item a{
+font-size: 28px;    
 }
 .lista-menu li:hover .sub-menu li{
     margin: 5px 0px;
@@ -237,7 +245,7 @@ nav .lista-menu li:hover .sub-menu{
     display: block;
     background: #98ACF8;
     padding: 0px;
-    height: 65vh;
+    /* height: 100vh; */
     transition: all 300ms;
     box-shadow: 1px 1px 3px 0px white;
     z-index: 200;

@@ -40,7 +40,7 @@
                     <a class="btn" href="ingles-tecnico.php" target="_blanck">Ver más <span></span> </a>
                
             </div>
-            <div class="item" data-aos="fade-right">
+            <!-- <div class="item" data-aos="fade-right">
                
                     <img src="./img/teacher.jpg" width="80">
                     <h3 class="text-center" >Programa de Inglés
@@ -50,7 +50,7 @@
                         forma efectiva y profesional en tu entorno laboral.</p>
                     <a class="btn" href="#programa-por-area">Ver más <span></span> </a>
                 
-            </div>
+            </div> -->
             <div class="item">
               
                     <img src="./img/teacher.jpg" width="80">
@@ -59,7 +59,7 @@
                     <p> TECH-LISH te ofrece cursos de inglés en tu área de especialidad para dotarte de las
                         habilidades, la confianza, teoría y práctica que te permitan comunicarte e interactuar de
                         forma efectiva y profesional en tu entorno laboral.</p>
-                    <a class="btn" href="#programa-por-area">Ver más <span></span> </a>
+                    <a class="btn" href="ingles-general.php">Ver más <span></span> </a>
                
             </div>
         </div>

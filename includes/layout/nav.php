@@ -17,7 +17,7 @@
                     <li class="menu-item"><a href="./ingles-corporativo.php">Programa de  Inglés Corporativo</a></li>
                     <li class="menu-item"><a href="./ingles-academico.php">Programa de  Inglés Académico</a></li>
                     <li class="menu-item"><a href="./ingles-tecnico.php">Programa de Inglés Técnico</a></li>
-                    <li class="menu-item"><a href="#programa-por-area-1">Programa de Inglés por Área</a></li>
+                    <li class="menu-item"><a href="ingles-por-area-page.php">Programa de Inglés por Área</a></li>
                     <li class="menu-item"><a href="#asesoria-ingles-1">Asesoría de Inglés Profesional</a></li>
                     <li class="menu-item"><a href="#otros-idiomas-1">Otros Idiomas</a></li>
                     <li class="menu-item"><a href="#prueba-ingles">Comprueba tu Nivel de Inglés</a></li>
