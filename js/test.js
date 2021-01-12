@@ -104,10 +104,10 @@ function mostrarTest() {
 
     for (letraRespuesta in preguntaActual.respuestas) {
       respuestas.push(
-        `<div class="row">
-              <div class="col-md-12 text-center">
+        `<div class="row ">
+              <div class="col-md-12 text-center bg-light">
               <input type="radio" name="${numeroDePregunta}" value="${letraRespuesta}" />
-              ${letraRespuesta} : ${preguntaActual.respuestas[letraRespuesta]}
+              ${letraRespuesta} ) ${preguntaActual.respuestas[letraRespuesta]}
               </div>
           </div>`
       );
@@ -117,7 +117,7 @@ function mostrarTest() {
       `<div class="row item-test">
       <div class="col-md-12">
       <div class="cuestion text-center">
-      <label class="font-weight-bold" style="color:#ef7373;">
+      <label class="font-weight-bold " style="color:#ef7373;">
       ${preguntaActual.pregunta}
       </label>
       </div>

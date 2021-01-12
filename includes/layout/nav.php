@@ -18,14 +18,14 @@
                     <li class="menu-item"><a href="./ingles-academico.php">Programa de  Inglés Académico</a></li>
                     <li class="menu-item"><a href="./ingles-tecnico.php">Programa de Inglés Técnico</a></li>
                     <li class="menu-item"><a href="ingles-por-area-page.php">Programa de Inglés por Área</a></li>
-                    <li class="menu-item"><a href="#asesoria-ingles-1">Asesoría de Inglés Profesional</a></li>
-                    <li class="menu-item"><a href="#otros-idiomas-1">Otros Idiomas</a></li>
-                    <li class="menu-item"><a href="#prueba-ingles">Comprueba tu Nivel de Inglés</a></li>
+                    <li class="menu-item"><a href="asesoria-ingles-page.php">Asesoría de Inglés Profesional</a></li>
+                    <li class="menu-item"><a href="otros-idiomas-page.php">Otros Idiomas</a></li>
+                    <li class="menu-item"><a href="test.php">Comprueba tu Nivel de Inglés</a></li>
                 </ul>
               </li>
               <li class="margen"><a href="#servicios">Prepárate para Certificarte<i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu ">
-                  <li class="menu-item"><a href="#preparate-examen">TOEFL iBT</a></li>
+                  <li class="menu-item"><a href="TOEFL-page.php">TOEFL iBT</a></li>
                   <li class="menu-item"><a href="#preparate-examen">TOEFL ITP</a></li>
                   <li class="menu-item"><a href="ex-TOEIC.php" target="_blank">TOEIC</a></li>
                   <li class="menu-item"><a href="ex-BEC.php" target="_blank">BEC</a></li>

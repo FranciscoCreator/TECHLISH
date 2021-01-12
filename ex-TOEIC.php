@@ -33,7 +33,6 @@
 </div>
 
 
-  <?php include 'includes/sections/preparate-examen.php'?>
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script> 
 <script src="https://kit.fontawesome.com/656ced73f3.js" ></script>

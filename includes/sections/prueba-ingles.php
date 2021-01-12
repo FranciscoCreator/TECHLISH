@@ -17,7 +17,7 @@
                     Para una evaluación mas detallada y objetiva de tus habilidades, contáctanos
                 </p>
                 <label>Realiza nuestra prueba rápida y gratuita</label>
-                <a class="prueba-ingles-btn" href="#">¡Probar Ahora!</a>
+                <a class="prueba-ingles-btn" href="test.php">¡Probar Ahora!</a>
             </div>
         </div>
     </div>

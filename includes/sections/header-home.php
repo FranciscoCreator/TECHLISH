@@ -11,7 +11,7 @@
                     TECH-LISH
                 </h1>
                 <div class="btns-cont">
-                    <a href="" class="bg-primary">Prueba tu Inglés</a>
+                    <a href="test.php" class="bg-primary">Prueba tu Inglés</a>
                     <a href="formulario-page.php"  class="bg-secondary">Contactános</a>
                 </div>
             </div>

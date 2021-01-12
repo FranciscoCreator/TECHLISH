@@ -12,12 +12,12 @@
 <?php include('includes/sections/por-que-trabajar.php'); ?>
 <!-- Hay 2 tipos de ola una hacia arriba y otra hacia abajo -->
 <!-- En una variable definimos el color (Gris) y a la hora de traer la hola hacia arriba le pasamos el color -->
-<?php $colorOla = "#f2f2f2"; ?>
+<?php $colorOla = "#1e213d"; ?>
 <?php include('includes/layout/ola_up.php'); ?>
 <!-- Y así coincide con el color de fondo de la sigiente sección -->
 <?php include('includes/sections/programa-por-area.php'); ?>
 <!-- Y le ponemos al final una ola hacia abajo pero de diferente color (Azul) ya q así es el fondo del final de la sección-->
-<?php $colorOla = "#1e1f3f"; ?>
+<?php $colorOla = "#1e213d"; ?>
 <?php include('includes/layout/ola_down.php'); ?>
 
 

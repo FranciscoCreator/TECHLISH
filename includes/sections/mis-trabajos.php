@@ -15,7 +15,7 @@
                     <a class="btn" href="ingles-corporativo.php" target="_blanck">Ver más</a>
             
             </div>
-            <div class="item pb30">
+            <div class="item pb30" data-aos="fade-right">
                 
                     <img src="./img/academico.jpg">
                     <h3 class="text-center"> Programa de Inglés
@@ -51,7 +51,7 @@
                     <a class="btn" href="#programa-por-area">Ver más <span></span> </a>
                 
             </div> -->
-            <div class="item">
+            <div class="item data-aos="fade-right"">
               
                     <img src="./img/teacher.jpg" width="80">
                     <h3 class="text-center">Programa de Inglés

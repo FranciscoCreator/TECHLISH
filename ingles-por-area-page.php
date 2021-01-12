@@ -5,29 +5,31 @@
 
 <?php include 'includes/layout/nav.php' ?>
 
-<section id="programa-por-area-1" data-aos="fade-up">
+<section id="programa-por-area-1" >
     <div class="container" data-aos="zoom-in-up">
         <div class="row contenedor-arriba">
-            <div class="col-md-6">
+            <div class="col-md-6 pt-5" data-aos="fade-right">
             
-            <img src="./img/fondo-otros-cursos.jpg" alt="">
+            <img class="rounded" src="./img/teacher.jpg" alt="imagen-responsive">
         
             </div>
-            <div class="col-md-6 programa-por-area-titulo">
-                <h3>Programa de Inglés <br>Profesional por Área</h3>
+            <div class="col-md-6 programa-por-area-titulo" data-aos="fade-left">
+                <h3>Programa de Inglés profesional por área</h3>
             </div>
         </div>
     </div>
 </section>
+<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #f2f2f2;"></path></svg></div>
+
 
 <section id="programa-por-area-2">
     <div class="container">
-        <div class="row">
+        <div class="row " >
             <div class="col-md-4 programa-por-area-2-titulo" data-aos="fade-up" >
                 <h4>Áreas Temáticas</h4>
             </div>
             <div class="col-md-8 programa-por-area-2-contenido" data-aos="fade-left">
-                <p>
+                <p class="text-center">
                     TECH-LISH te ofrece cursos de ingles en tu área de especialidad
                     para dotarte de las habilidades, la confianza,teoría y práctica que
                     te permitan comunicarte e interactuar de forma efectiva y profesional
