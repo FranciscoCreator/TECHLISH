@@ -17,7 +17,7 @@
                         <div class="blog-img-1 rounded"></div>
                     </div>
                     <div class="card-footer border-0">
-                        <a href="#" class="stretched-link blog-button">¡Prepárate Ahora! ➝ </a>
+                        <a href="TOEFL-page.php" class="stretched-link blog-button">¡Prepárate Ahora! ➝ </a>
                     </div>
                 </div>
             </div>

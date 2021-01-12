@@ -1,5 +1,9 @@
 <a id="whatsapp" href="https://api.whatsapp.com/send?phone=525581393262" target="_blank"><img src="./img/whatsapp.png" alt=""></a>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" 
+<div class="got-top-container">
+    <div class="go-top-button">
+        <i class="fas fa-chevron-up "></i>
+</div>    
+<script src="https://code.jquery.com/jquery-3.5.1.js" 
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     </script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
@@ -19,5 +23,9 @@
     <script>
          AOS.init();
     </script>
+
+   
+   
+</div>
 </body>
 </html>

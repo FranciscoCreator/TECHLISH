@@ -3,10 +3,17 @@
 <?php include('includes/layout/nav.php'); ?>
 <section>
      <h1 class="text-center item-test" style="color:#ef7373;">Prepárate para tu exámen</h1>
-    <div id="test" class="container"></div>
+     <div class="container">
+         <p class="text-left text-white">No respondas al azar. Si no sabes la respuesta, puedes dejarla en blanco.
+        <p class="text-left text-white"> No necesitas contestar toda la prueba si sientes que has pasado tu nivel.</p>
+        
+     </div>
+     
+     <div id="test" class="container"></div>
     <p >
         <div id="resultado" style="background-color:white;color:#ef7373;" class="text-center font-weight-bold"></div>
     </p>
+    
     <p class="text-center p-3">
         <button id="boton" class="btn btn-primary">Mostrar resultado</button>
     </p>

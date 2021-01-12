@@ -4,95 +4,184 @@ const resultadoTest = document.getElementById("resultado");
 
 const preguntas = [
   {
-    pregunta: "1. Cuál es la capital de Irán?",
+    pregunta: "1.  I live _______ Mexico.",
     respuestas: {
-      a: "Bagdad",
-      b: "Teherán",
-      c: "Islamabad",
-    },
-    respuestaCorrecta: "b",
-  },
-  {
-    pregunta: "2. Cuál es la capital de Irak?",
-    respuestas: {
-      a: "Kuwait",
-      b: "Dubai",
-      c: "Bagdad",
+      a: "at",
+      b: "on",
+      c: "in",
     },
     respuestaCorrecta: "c",
   },
   {
-    pregunta: "3. Cuál es la capital de Noruega?",
+    pregunta: "2. How old are you? ",
     respuestas: {
-      a: "Roma",
-      b: "Copenague",
-      c: "Estocolmo",
-      d: "Oslo",
+      a: "I have 27 years old.",
+      b: "I’m 27.",
+      c: "I are 27 years.",
     },
-    respuestaCorrecta: "d",
+    respuestaCorrecta: "b",
   },
   {
-    pregunta: "4. Cuál es la capital de Serbia?",
+    pregunta: "3. I have a brother. _____ name is Albert.",
     respuestas: {
-      a: "Belgrado",
-      b: "Zagreb",
-      c: "Kabul",
+      a: "He’s",
+      b: "His",
+      c: "He",
+    },
+    respuestaCorrecta: "b",
+  },
+  {
+    pregunta: "4. They _____ from Mexico. ",
+    respuestas: {
+      a: "are",
+      b: "is",
+      c: "made",
     },
     respuestaCorrecta: "a",
   },
   {
-    pregunta: "5. Cuál es la capital de Australia?",
+    pregunta: "5. Saturday, Sunday, Monday, _____ ",
     respuestas: {
-      a: "Sidney",
-      b: "Zurich",
-      c: "Canberra",
-    },
-    respuestaCorrecta: "c",
-  },
-  {
-    pregunta: "6. Cuál es la capital de Canadá?",
-    respuestas: {
-      a: "Toronto",
-      b: "Montreal",
-      c: "Ontario",
-    },
-    respuestaCorrecta: "c",
-  },
-  {
-    pregunta: "7. Cuál es la capital de Vietnam?",
-    respuestas: {
-      a: "Puket",
-      b: "Ho Chin Ming",
-      c: "Pan Lao Kung",
+      a: "Thursday",
+      b: "Tuesday",
+      c: "Friday",
     },
     respuestaCorrecta: "b",
   },
   {
-    pregunta: "8. Cuál es la capital de China?",
+    pregunta: "6. _____ are you from?",
     respuestas: {
-      a: "Shangai",
-      b: "Pekín",
-      c: "Seul",
+      a: "What",
+      b: "When",
+      c: "Where",
+    },
+    respuestaCorrecta: "c",
+  },
+  {
+    pregunta: "7. What do you do? I’m _____ architect.",
+    respuestas: {
+      a: "a",
+      b: "an",
+      c: "the",
     },
     respuestaCorrecta: "b",
   },
   {
-    pregunta: "9. Cuál es la capital de Pakistan?",
+    pregunta: "8. What is John doing now?",
     respuestas: {
-      a: "Islamabad",
-      b: "Kuwait",
-      c: "Kabul",
+      a: "He’s reading a book.",
+      b: "He reads a book. ",
+      c: "He has reading a book.",
     },
     respuestaCorrecta: "a",
   },
   {
-    pregunta: "10. Cuál es la capital de Marruecos?",
+    pregunta: "9. _____ he work in New York City?",
     respuestas: {
-      a: "Casablanca",
-      b: "Rabat",
-      c: "Kabul",
+      a: "Where",
+      b: "Does",
+      c: "Do",
     },
     respuestaCorrecta: "b",
+  },
+  {
+    pregunta: "10. My wife and I _____ live in a flat. ",
+    respuestas: {
+      a: "don’t",
+      b: "doesn’t",
+      c: "haven’t",
+    },
+    respuestaCorrecta: "a",
+  },
+  {
+    pregunta: "11. Mary _____ at six o’clock.",
+    respuestas: {
+      a: "gets up",
+      b: "goes up",
+      c: "get up",
+    },
+    respuestaCorrecta: "a",
+  },
+  {
+    pregunta: "12.  _____ you like chocolate ice-cream? ",
+    respuestas: {
+      a: "Are",
+      b: "Have",
+      c: "Do",
+    },
+    respuestaCorrecta: "c",
+  },
+  {
+    pregunta: "13. Do you _____ a blue pen? ",
+    respuestas: {
+      a: "get",
+      b: "have",
+      c: "got",
+    },
+    respuestaCorrecta: "b",
+  },
+  {
+    pregunta: "14. We don’t have _____ tomatoes. ",
+    respuestas: {
+      a: "a",
+      b: "no",
+      c: "any",
+    },
+    respuestaCorrecta: "c",
+  },
+  {
+    pregunta: "15. _____ a restaurant on the corner. ",
+    respuestas: {
+      a: "There",
+      b: "There’s",
+      c: "There’re",
+    },
+    respuestaCorrecta: "b",
+  },
+  {
+    pregunta: "16. Those glasses are very _____ .",
+    respuestas: {
+      a: "expensive",
+      b: "expensives",
+      c: "cost",
+    },
+    respuestaCorrecta: "a",
+  },
+  {
+    pregunta: "17. Los Angeles is a _____ city.",
+    respuestas: {
+      a: "noisy",
+      b: "bit",
+      c: "traffic",
+    },
+    respuestaCorrecta: "a",
+  },
+  {
+    pregunta: "18. Luis and Patty _____ at my office yesterday.",
+    respuestas: {
+      a: "was",
+      b: "are",
+      c: "Kwereabul",
+    },
+    respuestaCorrecta: "c",
+  },
+  {
+    pregunta: "19. Jason _____ got blue eyes.",
+    respuestas: {
+      a: "haven’t",
+      b: "hasn’t",
+      c: "Kadon’tbul",
+    },
+    respuestaCorrecta: "b",
+  },
+  {
+    pregunta: "Do you want the green _____ ? ",
+    respuestas: {
+      a: "one",
+      b: "it",
+      c: "this",
+    },
+    respuestaCorrecta: "a",
   },
 ];
 
@@ -109,6 +198,7 @@ function mostrarTest() {
               <input type="radio" name="${numeroDePregunta}" value="${letraRespuesta}" />
               ${letraRespuesta} ) ${preguntaActual.respuestas[letraRespuesta]}
               </div>
+              
           </div>`
       );
     }
