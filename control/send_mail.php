@@ -13,10 +13,10 @@ $transport = Swift_SmtpTransport::newInstance('mail.techlish.com.mx', 587)
 
 $mailer = Swift_Mailer::newInstance($transport);
 $message = Swift_Message::newInstance('Solicitud de información TECHLISH')
-    ->setFrom(array('soporte@dmmvission.com' => 'Solicitud de información TECHLISH'))
+    ->setFrom(array('contacto@techlish.com.mx' => 'Solicitud de información TECHLISH'))
     ->setTo(
         array(
-            'contacto@techlish.com.mx' => 'Contacto'
+            'contacto@techlish.com.mx' => 'Contacto'   
         )
     )
     ->setBody(
